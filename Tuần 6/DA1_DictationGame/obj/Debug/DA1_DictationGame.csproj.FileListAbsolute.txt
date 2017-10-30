@@ -1,0 +1,99 @@
+C:\Users\NMHie\Desktop\New folder\DA1_DictationGame\DA1_DictationGame\bin\Debug\DA1_DictationGame.exe.config
+C:\Users\NMHie\Desktop\New folder\DA1_DictationGame\DA1_DictationGame\bin\Debug\DA1_DictationGame.exe
+C:\Users\NMHie\Desktop\New folder\DA1_DictationGame\DA1_DictationGame\bin\Debug\DA1_DictationGame.pdb
+C:\Users\NMHie\Desktop\New folder\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.csprojResolveAssemblyReference.cache
+C:\Users\NMHie\Desktop\New folder\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.Properties.Resources.resources
+C:\Users\NMHie\Desktop\New folder\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.csproj.GenerateResource.Cache
+C:\Users\NMHie\Desktop\New folder\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.csproj.CoreCompileInputs.cache
+C:\Users\NMHie\Desktop\New folder\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.exe
+C:\Users\NMHie\Desktop\New folder\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.pdb
+C:\Users\NMHie\Desktop\New folder\DA1_DictationGame\DA1_DictationGame\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\NMHie\Desktop\New folder\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.Level.resources
+C:\Users\NMHie\Desktop\New folder\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.Main.resources
+C:\Users\NMHie\Desktop\New folder\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.Import.resources
+C:\Users\NMHie\Desktop\New folder\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.Help.resources
+C:\Users\NMHie\Desktop\New folder\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.HighScore.resources
+C:\Users\Busin Lee\Desktop\DA1_DictationGame\DA1_DictationGame\DA1_DictationGame\bin\Debug\DA1_DictationGame.exe.config
+C:\Users\Busin Lee\Desktop\DA1_DictationGame\DA1_DictationGame\DA1_DictationGame\bin\Debug\DA1_DictationGame.exe
+C:\Users\Busin Lee\Desktop\DA1_DictationGame\DA1_DictationGame\DA1_DictationGame\bin\Debug\DA1_DictationGame.pdb
+C:\Users\Busin Lee\Desktop\DA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.csprojResolveAssemblyReference.cache
+C:\Users\Busin Lee\Desktop\DA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.Help.resources
+C:\Users\Busin Lee\Desktop\DA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.HighScore.resources
+C:\Users\Busin Lee\Desktop\DA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.Import.resources
+C:\Users\Busin Lee\Desktop\DA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.Level.resources
+C:\Users\Busin Lee\Desktop\DA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.Main.resources
+C:\Users\Busin Lee\Desktop\DA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.Properties.Resources.resources
+C:\Users\Busin Lee\Desktop\DA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.csproj.GenerateResource.Cache
+C:\Users\Busin Lee\Desktop\DA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.exe
+C:\Users\Busin Lee\Desktop\DA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.pdb
+D:\New folder\DA1_DictationGame\DA1_DictationGame\DA1_DictationGame\bin\Debug\DA1_DictationGame.exe.config
+D:\New folder\DA1_DictationGame\DA1_DictationGame\DA1_DictationGame\bin\Debug\DA1_DictationGame.exe
+D:\New folder\DA1_DictationGame\DA1_DictationGame\DA1_DictationGame\bin\Debug\DA1_DictationGame.pdb
+D:\New folder\DA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.csprojResolveAssemblyReference.cache
+D:\New folder\DA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.Help.resources
+D:\New folder\DA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.HighScore.resources
+D:\New folder\DA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.Import.resources
+D:\New folder\DA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.Level.resources
+D:\New folder\DA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.Main.resources
+D:\New folder\DA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.Properties.Resources.resources
+D:\New folder\DA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.csproj.GenerateResource.Cache
+D:\New folder\DA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.csproj.CoreCompileInputs.cache
+D:\New folder\DA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.exe
+D:\New folder\DA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.pdb
+C:\Users\Busin Lee\Desktop\DA1_DictationGame\DA1_DictationGame\bin\Debug\DA1_DictationGame.exe.config
+C:\Users\Busin Lee\Desktop\DA1_DictationGame\DA1_DictationGame\bin\Debug\DA1_DictationGame.exe
+C:\Users\Busin Lee\Desktop\DA1_DictationGame\DA1_DictationGame\bin\Debug\DA1_DictationGame.pdb
+C:\Users\Busin Lee\Desktop\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.csprojResolveAssemblyReference.cache
+C:\Users\Busin Lee\Desktop\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.Help.resources
+C:\Users\Busin Lee\Desktop\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.HighScore.resources
+C:\Users\Busin Lee\Desktop\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.Import.resources
+C:\Users\Busin Lee\Desktop\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.Level.resources
+C:\Users\Busin Lee\Desktop\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.Main.resources
+C:\Users\Busin Lee\Desktop\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.Properties.Resources.resources
+C:\Users\Busin Lee\Desktop\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.csproj.GenerateResource.Cache
+C:\Users\Busin Lee\Desktop\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.exe
+C:\Users\Busin Lee\Desktop\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.pdb
+C:\Users\Busin Lee\Desktop\DA1_DictationGame\DA1_DictationGame\obj\Debug\Interop.WMPLib.dll
+C:\Users\Busin Lee\Desktop\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.csproj.ResolveComReference.cache
+C:\97lynk\Downloads\DA1_DictationGame\DA1_DictationGame\DA1_DictationGame\bin\Debug\DA1_DictationGame.exe.config
+C:\97lynk\Downloads\DA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\Interop.WMPLib.dll
+C:\97lynk\Downloads\DA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.csproj.ResolveComReference.cache
+C:\97lynk\Downloads\DA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.exe
+C:\97lynk\Downloads\DA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.pdb
+E:\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.csprojResolveAssemblyReference.cache
+E:\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.Help.resources
+E:\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.HighScore.resources
+E:\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.Import.resources
+E:\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.Level.resources
+E:\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.Main.resources
+E:\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.Properties.Resources.resources
+E:\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.csproj.GenerateResource.Cache
+E:\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.csproj.CoreCompileInputs.cache
+E:\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.exe
+E:\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.pdb
+E:\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\bin\Debug\DA1_DictationGame.exe.config
+E:\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\bin\Debug\DA1_DictationGame.exe
+E:\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\bin\Debug\DA1_DictationGame.pdb
+E:\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\bin\Debug\BusinessLogicLayer.dll
+E:\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\bin\Debug\DataAccessLayer.dll
+E:\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\bin\Debug\BusinessLogicLayer.pdb
+E:\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\bin\Debug\DataAccessLayer.pdb
+C:\Users\Busin Lee\Downloads\newDA1_DictationGame\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\bin\Debug\DA1_DictationGame.exe.config
+C:\Users\Busin Lee\Downloads\newDA1_DictationGame\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\bin\Debug\DA1_DictationGame.exe
+C:\Users\Busin Lee\Downloads\newDA1_DictationGame\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\bin\Debug\DA1_DictationGame.pdb
+C:\Users\Busin Lee\Downloads\newDA1_DictationGame\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Busin Lee\Downloads\newDA1_DictationGame\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\bin\Debug\DataAccessLayer.dll
+C:\Users\Busin Lee\Downloads\newDA1_DictationGame\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Busin Lee\Downloads\newDA1_DictationGame\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\bin\Debug\DataAccessLayer.pdb
+C:\Users\Busin Lee\Downloads\newDA1_DictationGame\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.csprojResolveAssemblyReference.cache
+C:\Users\Busin Lee\Downloads\newDA1_DictationGame\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.Help.resources
+C:\Users\Busin Lee\Downloads\newDA1_DictationGame\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.HighScore.resources
+C:\Users\Busin Lee\Downloads\newDA1_DictationGame\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.Import.resources
+C:\Users\Busin Lee\Downloads\newDA1_DictationGame\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.Level.resources
+C:\Users\Busin Lee\Downloads\newDA1_DictationGame\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.Main.resources
+C:\Users\Busin Lee\Downloads\newDA1_DictationGame\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.Properties.Resources.resources
+C:\Users\Busin Lee\Downloads\newDA1_DictationGame\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.csproj.GenerateResource.Cache
+C:\Users\Busin Lee\Downloads\newDA1_DictationGame\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.exe
+C:\Users\Busin Lee\Downloads\newDA1_DictationGame\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.pdb
+C:\Users\Busin Lee\Downloads\newDA1_DictationGame\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\Interop.WMPLib.dll
+C:\Users\Busin Lee\Downloads\newDA1_DictationGame\newDA1_DictationGame\DA1_DictationGame\DA1_DictationGame\obj\Debug\DA1_DictationGame.csproj.ResolveComReference.cache

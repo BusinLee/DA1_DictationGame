@@ -1,0 +1,20 @@
+C:\97lynk\Downloads\DA1_DictationGame\DA1_DictationGame\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\97lynk\Downloads\DA1_DictationGame\DA1_DictationGame\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\97lynk\Downloads\DA1_DictationGame\DA1_DictationGame\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\97lynk\Downloads\DA1_DictationGame\DA1_DictationGame\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\97lynk\Downloads\DA1_DictationGame\DA1_DictationGame\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+E:\newDA1_DictationGame\DA1_DictationGame\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+E:\newDA1_DictationGame\DA1_DictationGame\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+E:\newDA1_DictationGame\DA1_DictationGame\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+E:\newDA1_DictationGame\DA1_DictationGame\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+E:\newDA1_DictationGame\DA1_DictationGame\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+E:\newDA1_DictationGame\DA1_DictationGame\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\newDA1_DictationGame\DA1_DictationGame\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+E:\newDA1_DictationGame\DA1_DictationGame\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Busin Lee\Downloads\newDA1_DictationGame\newDA1_DictationGame\DA1_DictationGame\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Busin Lee\Downloads\newDA1_DictationGame\newDA1_DictationGame\DA1_DictationGame\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Busin Lee\Downloads\newDA1_DictationGame\newDA1_DictationGame\DA1_DictationGame\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Busin Lee\Downloads\newDA1_DictationGame\newDA1_DictationGame\DA1_DictationGame\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Busin Lee\Downloads\newDA1_DictationGame\newDA1_DictationGame\DA1_DictationGame\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Busin Lee\Downloads\newDA1_DictationGame\newDA1_DictationGame\DA1_DictationGame\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Busin Lee\Downloads\newDA1_DictationGame\newDA1_DictationGame\DA1_DictationGame\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

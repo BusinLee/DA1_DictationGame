@@ -1,0 +1,14 @@
+C:\97lynk\Downloads\DA1_DictationGame\DA1_DictationGame\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\97lynk\Downloads\DA1_DictationGame\DA1_DictationGame\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\97lynk\Downloads\DA1_DictationGame\DA1_DictationGame\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\97lynk\Downloads\DA1_DictationGame\DA1_DictationGame\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\97lynk\Downloads\DA1_DictationGame\DA1_DictationGame\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\newDA1_DictationGame\DA1_DictationGame\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\newDA1_DictationGame\DA1_DictationGame\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\newDA1_DictationGame\DA1_DictationGame\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+E:\newDA1_DictationGame\DA1_DictationGame\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\newDA1_DictationGame\DA1_DictationGame\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\newDA1_DictationGame\DA1_DictationGame\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Busin Lee\Downloads\newDA1_DictationGame\newDA1_DictationGame\DA1_DictationGame\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Busin Lee\Downloads\newDA1_DictationGame\newDA1_DictationGame\DA1_DictationGame\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Busin Lee\Downloads\newDA1_DictationGame\newDA1_DictationGame\DA1_DictationGame\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
