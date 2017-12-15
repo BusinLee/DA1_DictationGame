@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DA1_DictationGame", "DA1_DictationGame\DA1_DictationGame.csproj", "{EBFAD6C1-C95B-4C33-9DB4-C372864FB5EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBFAD6C1-C95B-4C33-9DB4-C372864FB5EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBFAD6C1-C95B-4C33-9DB4-C372864FB5EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBFAD6C1-C95B-4C33-9DB4-C372864FB5EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBFAD6C1-C95B-4C33-9DB4-C372864FB5EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E31C1A20-952B-4314-84B0-C2420EBA6A13}
+	EndGlobalSection
+EndGlobal
